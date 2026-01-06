@@ -1,7 +1,4 @@
-# vizzy
-
-The Vizzy App
-Terms and Conditions
+# The Vizzy App Terms and Conditions
 Last Updated: January 6, 2026
 1. Acceptance of Terms
 By downloading, installing, or using The Vizzy App ("the App"), you agree to be bound by these Terms and Conditions. If you do not agree, please do not use the App.
@@ -35,10 +32,7 @@ If you have any questions about this Privacy Policy, please contact us:
 By email: vizzy-support@google.com
 By visiting this page on our website: https://github.com/ryangoogle/vizzy
 
-# vizzy
-
-The Vizzy App
-Privacy Policy
+# The Vizzy App Privacy Policy
 Last Updated: January 6, 2026
 1. Introduction
 Google ("we," "our," or "us") operates the The Vizzy App mobile application. We are committed to protecting your privacy and ensuring that your personal information is handled in a safe and responsible manner.
